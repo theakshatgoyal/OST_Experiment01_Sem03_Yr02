@@ -6,4 +6,7 @@ A sample repository for thecompletion of Experiment 01 of the subject Open Sourc
 * Manu Kaul
 * Akshat Goyal
 
+
+## Conflict- AKSHAT GOYAL
+
 ## Conflict- MANU KAUL
